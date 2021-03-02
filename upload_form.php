@@ -3,6 +3,7 @@
 require_once "./dbc.php";
 
 $files = getAllFile();
+$test;
 
 ?>
 <!-- ①フォームの説明 -->
